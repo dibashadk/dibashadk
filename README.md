@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/dibashadk](github.com/dibashadk)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/dibash-adhikari-8b3301343/](https://www.linkedin.com/in/dibash-adhikari-8b3301343/)
-
 - 💬 Ask me about **Python, AI/ML, JS.**
 
 - 📫 How to reach me **dibash.adk@pm.me**
