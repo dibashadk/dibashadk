@@ -1,8 +1,8 @@
 ![snake gif](https://github.com/dibashadk/dibashadk/blob/output/github-snake-dark.svg)
 
 
-<h1 align="center">Hi 👋, I'm Dibash Adhikari</h1>
-<h3 align="center">A passionate designer & developer from Nepal</h3>
+<h1 align="left">Hi 👋, I'm Dibash Adhikari</h1>
+<h3 align="left">A passionate designer & developer from Nepal</h3>
 
 - 🔭 I’m currently working on **DataHub**
 
